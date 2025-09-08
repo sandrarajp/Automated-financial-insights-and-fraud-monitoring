@@ -59,7 +59,7 @@ Sample CSVs are included in `/data/`.
 ---
 
 ## Project Structure  
-fraud-finance-monitoring/
+fraud-finance-monitoring
 ├── README.md             # Project documentation
 ├── requirements.txt      # Python dependencies
 ├── .gitignore            # Ignore sensitive/system files
