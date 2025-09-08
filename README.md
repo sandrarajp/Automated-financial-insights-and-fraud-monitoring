@@ -1,18 +1,20 @@
-# Automated Fraud Finance Monitoring – Loan, Customers & Transactions  
+# AI-Automated Fraud Finance Monitoring using n8n and Gemini
+![Fraud detection Dashboard](https://github.com/user-attachments/assets/7570ff5b-c30e-4bc2-b361-32f79beb382f)
+
 
 ## 📌 Table of Contents  
-- Overview  
-- Business Problem  
-- Dataset  
-- Tools & Technologies  
-- Project Structure  
-- Data Cleaning & Preparation  
-- Exploratory Data Analysis (EDA)  
-- Research Questions & Key Findings  
-- Dashboard  
-- How to Run This Project  
-- Final Recommendations  
-- Author & Contact  
+- [Overview](## 📖 Overview) 
+- [Business Problem](## 🏦 Business Problem)   
+- [Dataset](## 📂 Dataset)  
+- [Tools & Technologies](## 🛠️ Tools & Technologies)  
+- [Project Structure] (## 📁 Project Structure) 
+- [Data Cleaning & Preparation] (## 🧹 Data Cleaning & Preparation ) 
+- [Exploratory Data Analysis (EDA)](## 🧹 Data Cleaning & Preparation)  
+- [Research Questions & Key Findings]  (## ## ❓ Research Questions & Key Findings)  
+- [Dashboard]  (## 📊 Dashboard)
+- [How to Run This Project]  (## ⚙️ How to Run This Project) 
+- [Final Recommendations]  (## Final Recommendations)
+- [Author & Contact]  (##👤 Author & Contact)
 
 ---
 
