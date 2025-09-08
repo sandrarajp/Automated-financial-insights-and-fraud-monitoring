@@ -131,25 +131,21 @@ Looker Studio Dashboard tracks:
 ---
 
 ## How to Run This Project  
-
-
-# 1. Clone the repository
+ 1. Clone the repository
 git clone https://github.com/yourusername/fraud-finance-monitoring.git
 cd fraud-finance-monitoring
 
-- git clone https://github.com/yourusername/fraud-finance-monitoring.git
-- cd fraud-finance-monitoring ```
-# 2. (Optional) Install Python dependencies
+ 2. (Optional) Install Python dependencies
  - pip install -r requirements.txt
 
-# 3. Setup Supabase
+ 3. Setup Supabase
 - Import /sql/schema.sql into your Supabase project.
 - Upload /data/*.csv as seed data.
 
-# 4. Import n8n workflows
+ 4. Import n8n workflows
 - Import flows from /n8n_flows/ to automate data sync (Supabase ↔ Sheets).
 
-# 5. Open Dashboard
+ 5. Open Dashboard
 - Connect Looker Studio to Supabase/Sheets.
 
 # Final Recommendations
