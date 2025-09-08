@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Automated Fraud Finance Monitoring 
 
 ## 📌 Table of Contents  
@@ -171,3 +172,6 @@ Data Analyst | Fraud Risk Monitoring Enthusiast
 📧 Email: sandraraj36@gmail.com
 
 🔗 LinkedIn: www.linkedin.com/in/sandrarajp
+=======
+# Automated-financial-insights-and-fraud-monitoring
+>>>>>>> 2974a77dc5428e0b95cc04da14919655f2b6bb7e
