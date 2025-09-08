@@ -65,10 +65,10 @@ fraud-finance-monitoring/
 ├── .gitignore            # Ignore sensitive/system files
 │
 ├── n8n_flows            # JSON exports of automation workflows
-│ └── fraud_workflow.json
+│ 
 │ 
 ├── sql                 # Database schema or queries for Supabase
-│ └── schema.sql
+│ 
 │
 ├── data                # Sample CSVs
 │ ├── customers.csv
