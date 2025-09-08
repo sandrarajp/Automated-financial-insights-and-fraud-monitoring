@@ -1,0 +1,29 @@
+{
+  "name": "My workflow",
+  "nodes": [
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.gmailTrigger",
+      "typeVersion": 1.3,
+      "position": [
+        0,
+        0
+      ],
+      "id": "98dcd952-b419-4387-9e53-cbbb2f541a7e",
+      "name": "Gmail Trigger"
+    }
+  ],
+  "pinData": {},
+  "connections": {},
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "8e11f889-4991-41ce-ab12-e2bdf15e5334",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "8fea32ba2090cdd5aeaed3bfdd9184846f981b40bab7e922e1bf15ab833d2bcb"
+  },
+  "id": "3nMWRrxKUe0y9jmd",
+  "tags": []
+}
