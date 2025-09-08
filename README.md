@@ -64,22 +64,22 @@ fraud-finance-monitoring/
 ├── requirements.txt      # Python dependencies
 ├── .gitignore            # Ignore sensitive/system files
 │
-├── n8n_flows/            # JSON exports of automation workflows
+├── n8n_flows            # JSON exports of automation workflows
 │ └── fraud_workflow.json
 │ 
-├── sql/                  # Database schema or queries for Supabase
+├── sql                 # Database schema or queries for Supabase
 │ └── schema.sql
 │
-├── data/ # Sample CSVs
+├── data                # Sample CSVs
 │ ├── customers.csv
 │ ├── loans.csv
 │ └── transactions.csv
 │
-├── notebooks/           # Jupyter notebooks for EDA & modeling
+├── notebooks           # Jupyter notebooks for EDA & modeling
 │ ├── exploratory_analysis.ipynb
 │ └── fraud_detection.ipynb
 │
-├── dashboard/           # Looker Studio dashboard screenshots or links
+├── dashboard           # Looker Studio dashboard screenshots or links
 │ └── fraud_dashboard.png
 
 ## Data Cleaning & Preparation  
