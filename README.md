@@ -133,9 +133,9 @@ Looker Studio Dashboard tracks:
 ## How to Run This Project  
 
 ### 1. Clone the repository  
+```bash
 - git clone https://github.com/yourusername/fraud-finance-monitoring.git
-- cd fraud-finance-monitoring
-
+- cd fraud-finance-monitoring ```
 2. (Optional) Install Python dependencies
  - pip install -r requirements.txt
 
