@@ -59,28 +59,32 @@ Sample CSVs are included in `/data/`.
 ---
 
 ## Project Structure  
-fraud-finance-monitoring/
-│
-├── README.md
-├── requirements.txt
-├── .gitignore
-│
-├── n8n_flows/        # JSON exports of automation workflows
-│
-├── sql/              # Database schema or queries for Supabase
-│   └── schema.sql
-│
-├── data/             # Sample CSVs
-│   ├── customers.csv
-│   ├── loans.csv
-│   └── transactions.csv
-│
-├── notebooks/        # Jupyter notebooks for EDA
-│   ├── exploratory_analysis.ipynb
-│   └── fraud_detection.ipynb
-│
-├── dashboard/        # Looker Studio dashboard screenshots or links
-│   └── fraud_dashboard.png
+
+---
+
+### 📖 Folder Descriptions
+
+- **`README.md`** → Main project documentation  
+- **`requirements.txt`** → List of Python dependencies  
+- **`n8n_flows/`** → Contains exported **n8n workflow JSONs** for automation  
+- **`sql/`** → Database schema & queries for Supabase setup  
+- **`data/`** → Example CSV datasets (`customers`, `loans`, `transactions`)  
+- **`notebooks/`** → Jupyter notebooks for **exploratory data analysis** and **fraud detection**  
+- **`dashboard/`** → Looker Studio dashboard images or links to reports  
+
+
+---
+
+### 📖 Folder Descriptions
+
+- **`README.md`** → Main project documentation  
+- **`requirements.txt`** → List of Python dependencies  
+- **`n8n_flows/`** → Contains exported **n8n workflow JSONs** for automation  
+- **`sql/`** → Database schema & queries for Supabase setup  
+- **`data/`** → Example CSV datasets (`customers`, `loans`, `transactions`)  
+- **`notebooks/`** → Jupyter notebooks for **exploratory data analysis** and **fraud detection**  
+- **`dashboard/`** → Looker Studio dashboard images or links to reports  
+
 
 
 ---
