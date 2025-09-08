@@ -84,8 +84,11 @@ fraud-finance-monitoring/
 │   └── fraud_detection.ipynb
 │
 ├── dashboard/                  # Looker Studio dashboard screenshots or links
-│   └── fraud_dashboard.png ```
+│   └── fraud_dashboard.png
+```
 
+
+---
 
 ## Data Cleaning & Preparation  
 - Removed **negative or zero values** (income ≤ 0, loan amount ≤ 0).  
