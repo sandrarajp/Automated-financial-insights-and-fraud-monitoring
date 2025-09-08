@@ -132,8 +132,8 @@ Looker Studio Dashboard tracks:
 
 ## How to Run This Project  
  1. Clone the repository
-git clone https://github.com/yourusername/fraud-finance-monitoring.git
-cd fraud-finance-monitoring
+- git clone https://github.com/yourusername/fraud-finance-monitoring.git
+- cd fraud-finance-monitoring
 
  2. (Optional) Install Python dependencies
  - pip install -r requirements.txt
@@ -147,8 +147,10 @@ cd fraud-finance-monitoring
 
  5. Open Dashboard
 - Connect Looker Studio to Supabase/Sheets.
+  
+ ---
 
-# Final Recommendations
+## Final Recommendations
 - Tighten underwriting criteria for borrowers <690 credit score & long-term loans.
 - Investigate fraud patterns (Nevada cohort, payment reversals).
 - Proactive customer retention: Offer deferrals/modifications to distressed customers.
