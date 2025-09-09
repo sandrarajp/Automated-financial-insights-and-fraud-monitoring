@@ -1,5 +1,6 @@
 # AI-Automated Fraud Finance Monitoring using n8n and Gemini  
-![Fraud detection Dashboard](https://github.com/user-attachments/assets/7570ff5b-c30e-4bc2-b361-32f79beb382f)
+![WhatsApp Image 2025-09-09 at 10 15 25_19a1e1f5](https://github.com/user-attachments/assets/37553cfb-7996-4dff-9cf0-7826edb5998b)
+
 
 ## 📌 Table of Contents  
 - [Overview](#overview)  
